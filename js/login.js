@@ -25,7 +25,7 @@ document.getElementById("btn").addEventListener("click",function(event){
 
     }
     else{
-        alert("You Are give wrong number ot pin")
+        alert("You Are give wrong number or pin")
     }
 
 
