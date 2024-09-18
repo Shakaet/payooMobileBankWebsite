@@ -16,7 +16,7 @@ document.getElementById("btn").addEventListener("click",function(event){
     let input_pin=document.getElementById("pin").value
     // console.log(input_pin)
 
-    if(input_text==="01920293858" && input_pin==="1234asdf"){
+    if(input_text==="0" && input_pin==="1"){
 
         console.log("You Are Succesfully login")
 
