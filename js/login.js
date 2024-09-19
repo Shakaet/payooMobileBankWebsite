@@ -20,7 +20,7 @@ document.getElementById("btn").addEventListener("click",function(event){
 
         console.log("You Are Succesfully login")
 
-        window.location.href="/home.html"
+        window.location.href="./home.html"
 
 
     }
